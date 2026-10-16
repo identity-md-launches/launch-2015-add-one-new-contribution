@@ -1,0 +1,29 @@
+{
+  "output": "artifacts/image-v2.png",
+  "format": "PNG",
+  "mimeType": "image/png",
+  "width": 3840,
+  "height": 2160,
+  "channels": "RGBA",
+  "bitDepth": 8,
+  "changedPixelBoundingBox": {
+    "x": 3120,
+    "y": 951,
+    "width": 559,
+    "height": 518
+  },
+  "inclusiveEndpoints": {
+    "left": 3120,
+    "top": 951,
+    "right": 3678,
+    "bottom": 1468
+  },
+  "changedPixelCount": 105440,
+  "pixelsChangedOutsideContribution": 0,
+  "centreUnchanged": true,
+  "earlierContributionsUnchanged": true,
+  "originalSHA256": "c532766190f399c2e3a9e1b1c2ff42a854f114548a12092328335bfb2dfa4a35",
+  "outputSHA256": "617cd8da9d4d4202876dc5594d957a7669d23bdd799ae4f037108fd672e1a6b4",
+  "visualReview": "Full canvas inspected: one weathered bridge, two paper flags, fine paper crack, requested handwriting, far-right middle placement, blank centre.",
+  "unmetRequirements": []
+}
