@@ -1,0 +1,23 @@
+{
+  "source": "artifacts/source-v4.png",
+  "sourceURL": "https://api.imd.fun/artifacts/1b38825278f9ebc84e886f2b37aeee6a301c9b34df935428a6e1244ec2c038e8",
+  "sourceSHA256": "1b38825278f9ebc84e886f2b37aeee6a301c9b34df935428a6e1244ec2c038e8",
+  "output": "artifacts/image-v4.png",
+  "format": "PNG",
+  "mimeType": "image/png",
+  "width": 3840,
+  "height": 2160,
+  "channels": "RGBA",
+  "bitDepth": 8,
+  "changedPixelCount": 177401,
+  "changedPixelBoundingBoxInclusive": {
+    "left": 3201,
+    "top": 901,
+    "right": 3649,
+    "bottom": 1299
+  },
+  "pixelsChangedOutsideRectangle": 0,
+  "outputSHA256": "32d5de3b89e51de1d13ce0f0e5622e4230776ff4d3d1c14b17ac908057d8f0cf",
+  "method": "Built-in image_gen editing of source crop, bilinear resampling and constrained compositing into exact source canvas.",
+  "unmetVisualRequirements": []
+}
