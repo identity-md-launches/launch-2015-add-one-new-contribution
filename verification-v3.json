@@ -1,0 +1,29 @@
+{
+  "source": "artifacts/image.png",
+  "output": "artifacts/image-v3.png",
+  "width": 3840,
+  "height": 2160,
+  "format": "PNG",
+  "mimeType": "image/png",
+  "channels": "RGBA",
+  "bitDepth": 8,
+  "changedPixelCount": 44105,
+  "changedPixelBoundingBox": {
+    "x": 3216,
+    "y": 918,
+    "width": 417,
+    "height": 365
+  },
+  "inclusiveEndpoints": {
+    "left": 3216,
+    "top": 918,
+    "right": 3632,
+    "bottom": 1282
+  },
+  "pixelsChangedOutsideRectangle": 0,
+  "sourceSHA256": "c532766190f399c2e3a9e1b1c2ff42a854f114548a12092328335bfb2dfa4a35",
+  "outputSHA256": "1b38825278f9ebc84e886f2b37aeee6a301c9b34df935428a6e1244ec2c038e8",
+  "visualReview": "Full canvas and 450×400 detail inspected. Weathered wooden bridge spans a fine vertical crack; two paper flags are tied to the rail; handwriting reads exactly “Shelter is something we make for each other.” Centre remains empty. Visual review is local contributor assessment.",
+  "unmetVisualRequirements": [],
+  "sourceSelection": "Used artifacts/image.png, the supplied pre-bridge canvas. artifacts/image-v2.png already contains a larger previous bridge extending outside the permitted rectangle and is not the comparison source."
+}
